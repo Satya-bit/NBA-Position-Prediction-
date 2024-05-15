@@ -33,3 +33,6 @@ The following code depicts the position of NBA players which is divided into 5 c
 ->Accuracy on dummy_test is 69.3%
 
 ->My model is not overfitting as all accuracies are almost close to eachother. Nor it is underfitted as the base class is 20%(5 positions to predict)
+
+![image](https://github.com/Satya-bit/NBA-Position-Prediction-using-Neural-Networks/assets/70309925/65234193-12fe-4689-b131-65e3371cd2c4)
+
